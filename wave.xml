@@ -10,41 +10,9 @@
 <width>29.0</width>
 <height>10.0</height>
 <key>
-	<code>113</code>
-	<xpos>24.0</xpos>
-	<ypos>9.5</ypos>
-	<height>1.0</height>
-</key>
-<key>
-	<code>116</code>
-	<xpos>26.0</xpos>
-	<ypos>9.5</ypos>
-	<height>1.0</height>
-</key>
-<key>
-	<code>114</code>
-	<xpos>28.0</xpos>
-	<ypos>9.5</ypos>
-	<height>1.0</height>
-</key>
-<key>
-	<code>33</code>
-	<xpos>17.8</xpos>
-	<ypos>6.9</ypos>
-	<width>1.4</width>
-	<height>1.6</height>
-</key>
-<key>
-	<code>58</code>
-	<xpos>19.2666666667</xpos>
-	<ypos>6.25</ypos>
-	<width>1.46666666667</width>
-	<height>1.5</height>
-</key>
-<key>
 	<code>108</code>
 	<xpos>18.0</xpos>
-	<ypos>9.35</ypos>
+	<ypos>9.31666666667</ypos>
 	<height>1.1</height>
 </key>
 <key>
@@ -58,30 +26,6 @@
 	<xpos>22.0</xpos>
 	<ypos>9.4</ypos>
 	<height>1.2</height>
-</key>
-<key>
-	<code>64</code>
-	<xpos>5.0</xpos>
-	<ypos>9.4</ypos>
-	<height>1.0</height>
-</key>
-<key>
-	<code>133</code>
-	<xpos>3.0</xpos>
-	<ypos>9.46666666667</ypos>
-	<height>1.06666666667</height>
-</key>
-<key>
-	<code>37</code>
-	<xpos>1.0</xpos>
-	<ypos>9.46666666667</ypos>
-	<height>1.06666666667</height>
-</key>
-<key>
-	<code>50</code>
-	<xpos>0.45</xpos>
-	<ypos>7.0</ypos>
-	<width>0.9</width>
 </key>
 <key>
 	<code>66</code>
@@ -98,361 +42,424 @@
 	<height>1.3</height>
 </key>
 <key>
-	<code>24</code>
-	<xpos>0.683333333333</xpos>
-	<ypos>2.51666666667</ypos>
-	<width>1.36666666667</width>
-	<height>1.5</height>
-</key>
-<key>
-	<code>10</code>
-	<xpos>2.06666666667</xpos>
-	<ypos>0.533333333333</ypos>
-	<width>1.66666666667</width>
-	<height>1.06666666667</height>
-</key>
-<key>
-	<code>49</code>
-	<xpos>0.65</xpos>
-	<ypos>0.85</ypos>
-	<width>1.3</width>
-	<height>1.7</height>
-</key>
-<key>
-	<code>25</code>
-	<xpos>4.61666666667</xpos>
-	<ypos>2.71666666667</ypos>
-	<width>1.76666666667</width>
-	<height>1.16666666667</height>
-</key>
-<key>
-	<code>11</code>
-	<xpos>3.86666666667</xpos>
-	<ypos>0.483333333333</ypos>
-	<width>1.86666666667</width>
-	<height>0.966666666667</height>
-</key>
-<key>
-	<code>12</code>
-	<xpos>5.81666666667</xpos>
-	<ypos>0.45</ypos>
-	<width>1.9</width>
-	<height>0.9</height>
-</key>
-<key>
-	<code>13</code>
-	<xpos>7.55</xpos>
-	<ypos>0.5</ypos>
-	<width>1.5</width>
-	<height>1.0</height>
-</key>
-<key>
-	<code>14</code>
-	<xpos>9.25</xpos>
-	<ypos>0.45</ypos>
-	<width>1.7</width>
-	<height>0.9</height>
-</key>
-<key>
-	<code>15</code>
-	<xpos>11.05</xpos>
-	<ypos>0.5</ypos>
-	<width>1.7</width>
-	<height>1.0</height>
-</key>
-<key>
-	<code>16</code>
-	<xpos>12.7</xpos>
-	<ypos>0.5</ypos>
-	<width>1.4</width>
-	<height>1.0</height>
-</key>
-<key>
-	<code>17</code>
-	<xpos>14.15</xpos>
-	<ypos>0.65</ypos>
-	<width>1.5</width>
-	<height>1.3</height>
-</key>
-<key>
-	<code>18</code>
-	<xpos>15.7</xpos>
-	<ypos>0.55</ypos>
-	<width>1.4</width>
-	<height>1.1</height>
-</key>
-<key>
-	<code>19</code>
-	<xpos>17.1666666667</xpos>
-	<ypos>0.7</ypos>
-	<width>1.26666666667</width>
-	<height>1.4</height>
-</key>
-<key>
-	<code>20</code>
-	<xpos>21.45</xpos>
-	<ypos>0.7</ypos>
-	<width>1.5</width>
-	<height>1.4</height>
-</key>
-<key>
-	<code>21</code>
-	<xpos>23.2166666667</xpos>
-	<ypos>0.583333333333</ypos>
-	<width>1.76666666667</width>
-	<height>1.16666666667</height>
-</key>
-<key>
-	<code>111</code>
-	<xpos>26.1</xpos>
-	<ypos>7.8</ypos>
-	<width>1.4</width>
-	<height>1.2</height>
-</key>
-<key>
-	<code>51</code>
-	<xpos>28.3</xpos>
-	<ypos>5.46666666667</ypos>
-	<width>1.4</width>
-	<height>1.46666666667</height>
-</key>
-<key>
-	<code>48</code>
-	<xpos>28.2</xpos>
-	<ypos>4.05</ypos>
-	<width>1.4</width>
-	<height>1.3</height>
-</key>
-<key>
-	<code>61</code>
-	<xpos>26.7166666667</xpos>
-	<ypos>2.26666666667</ypos>
-	<width>1.36666666667</width>
-	<height>1.26666666667</height>
-</key>
-<key>
-	<code>35</code>
-	<xpos>25.4166666667</xpos>
-	<ypos>2.46666666667</ypos>
-	<width>1.3</width>
-	<height>1.26666666667</height>
-</key>
-<key>
-	<code>34</code>
-	<xpos>24.0</xpos>
-	<ypos>2.65</ypos>
-	<width>1.4</width>
-	<height>1.3</height>
-</key>
-<key>
-	<code>47</code>
-	<xpos>22.5</xpos>
-	<ypos>2.95</ypos>
-	<width>1.4</width>
-	<height>1.3</height>
-</key>
-<key>
-	<code>39</code>
-	<xpos>3.16666666667</xpos>
-	<ypos>2.95</ypos>
-	<width>1.2</width>
-	<height>1.1</height>
-</key>
-<key>
-	<code>94</code>
-	<xpos>2.6</xpos>
-	<ypos>4.16666666667</ypos>
-	<width>1.2</width>
-	<height>1.26666666667</height>
-</key>
-<key>
-	<code>52</code>
-	<xpos>2.85</xpos>
-	<ypos>5.61666666667</ypos>
-	<width>1.3</width>
-	<height>1.36666666667</height>
-</key>
-<key>
-	<code>53</code>
-	<xpos>3.26666666667</xpos>
-	<ypos>6.85</ypos>
-	<width>1.4</width>
-	<height>1.1</height>
-</key>
-<key>
-	<code>59</code>
-	<xpos>20.6666666667</xpos>
-	<ypos>5.8</ypos>
-	<width>1.26666666667</width>
-	<height>1.4</height>
-</key>
-<key>
-	<code>45</code>
-	<xpos>22.0</xpos>
-	<ypos>5.95</ypos>
-	<width>1.4</width>
-	<height>1.3</height>
-</key>
-<key>
-	<code>44</code>
-	<xpos>23.4166666667</xpos>
-	<ypos>6.21666666667</ypos>
-	<width>1.36666666667</width>
-	<height>1.36666666667</height>
-</key>
-<key>
-	<code>60</code>
-	<xpos>24.7666666667</xpos>
-	<ypos>6.6</ypos>
-	<width>1.26666666667</width>
-	<height>1.2</height>
-</key>
-<key>
-	<code>65</code>
-	<xpos>12.3</xpos>
-	<ypos>3.76666666667</ypos>
-	<width>1.2</width>
-	<height>1.26666666667</height>
-</key>
-<key>
-	<code>29</code>
-	<xpos>16.2166666667</xpos>
-	<ypos>2.61666666667</ypos>
-	<width>1.16666666667</width>
-	<height>1.56666666667</height>
-</key>
-<key>
-	<code>36</code>
-	<xpos>17.35</xpos>
-	<ypos>2.61666666667</ypos>
-	<width>1.1</width>
-	<height>1.5</height>
-</key>
-<key>
-	<code>42</code>
-	<xpos>21.05</xpos>
-	<ypos>2.95</ypos>
-	<width>1.3</width>
-	<height>1.5</height>
-</key>
-<key>
-	<code>41</code>
-	<xpos>19.8</xpos>
-	<ypos>2.61666666667</ypos>
-	<width>1.2</width>
-	<height>1.36666666667</height>
-</key>
-<key>
-	<code>26</code>
-	<xpos>9.45</xpos>
-	<ypos>6.76666666667</ypos>
-	<width>1.5</width>
-	<height>1.4</height>
-</key>
-<key>
-	<code>55</code>
-	<xpos>15.7666666667</xpos>
-	<ypos>6.46666666667</ypos>
-	<width>1.4</width>
-	<height>1.4</height>
-</key>
-<key>
-	<code>46</code>
-	<xpos>14.4333333333</xpos>
-	<ypos>6.66666666667</ypos>
-	<width>1.2</width>
-	<height>1.46666666667</height>
-</key>
-<key>
-	<code>57</code>
-	<xpos>13.0833333333</xpos>
-	<ypos>7.2</ypos>
-	<width>1.3</width>
-	<height>1.4</height>
-</key>
-<key>
-	<code>43</code>
-	<xpos>11.85</xpos>
-	<ypos>7.8</ypos>
-	<width>1.1</width>
-	<height>1.4</height>
-</key>
-<key>
-	<code>28</code>
-	<xpos>11.0666666667</xpos>
-	<ypos>4.1</ypos>
-	<width>1.26666666667</width>
-	<height>1.2</height>
-</key>
-<key>
-	<code>27</code>
-	<xpos>6.16666666667</xpos>
-	<ypos>2.91666666667</ypos>
-	<width>1.26666666667</width>
-	<height>1.3</height>
-</key>
-<key>
-	<code>31</code>
-	<xpos>7.41666666667</xpos>
-	<ypos>3.2</ypos>
-	<width>1.1</width>
-	<height>1.26666666667</height>
-</key>
-<key>
-	<code>38</code>
-	<xpos>8.66666666667</xpos>
-	<ypos>3.71666666667</ypos>
-	<width>1.4</width>
-	<height>1.3</height>
-</key>
-<key>
-	<code>32</code>
-	<xpos>8.05</xpos>
-	<ypos>7.2</ypos>
-	<width>1.3</width>
-	<height>1.4</height>
-</key>
-<key>
-	<code>40</code>
-	<xpos>6.85</xpos>
-	<ypos>7.3</ypos>
-	<width>1.1</width>
-	<height>1.2</height>
-</key>
-<key>
-	<code>54</code>
-	<xpos>5.63333333333</xpos>
-	<ypos>7.5</ypos>
-	<width>1.2</width>
-	<height>1.2</height>
-</key>
-<key>
-	<code>30</code>
-	<xpos>14.9166666667</xpos>
-	<ypos>2.93333333333</ypos>
-	<width>1.16666666667</width>
-	<height>1.2</height>
-</key>
-<key>
-	<code>56</code>
-	<xpos>13.6</xpos>
-	<ypos>3.31666666667</ypos>
-	<width>1.2</width>
-	<height>1.16666666667</height>
-</key>
-<key>
 	<code>62</code>
 	<xpos>9.86666666667</xpos>
-	<ypos>9.45</ypos>
+	<ypos>9.41666666667</ypos>
 	<width>1.4</width>
 	<height>1.1</height>
 </key>
 <key>
 	<code>22</code>
 	<xpos>8.36666666667</xpos>
-	<ypos>9.48333333333</ypos>
+	<ypos>9.41666666667</ypos>
 	<width>1.2</width>
 	<height>0.966666666667</height>
+</key>
+<key>
+	<code>37</code>
+	<xpos>0.583333333333</xpos>
+	<ypos>6.65</ypos>
+	<width>1.16666666667</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>133</code>
+	<xpos>0.616666666667</xpos>
+	<ypos>7.81666666667</ypos>
+	<width>1.1</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>64</code>
+	<xpos>0.5</xpos>
+	<ypos>8.81666666667</ypos>
+	<width>1.0</width>
+	<height>0.966666666667</height>
+</key>
+<key>
+	<code>27</code>
+	<xpos>5.31666666667</xpos>
+	<ypos>2.45</ypos>
+	<width>0.966666666667</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>31</code>
+	<xpos>5.95</xpos>
+	<ypos>3.46666666667</ypos>
+	<width>0.9</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>60</code>
+	<xpos>14.9</xpos>
+	<ypos>8.06666666667</ypos>
+	<width>0.8</width>
+	<height>0.866666666667</height>
+</key>
+<key>
+	<code>59</code>
+	<xpos>15.75</xpos>
+	<ypos>7.61666666667</ypos>
+	<width>0.9</width>
+	<height>0.966666666667</height>
+</key>
+<key>
+	<code>26</code>
+	<xpos>8.35</xpos>
+	<ypos>1.9</ypos>
+	<width>1.1</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>38</code>
+	<xpos>7.68333333333</xpos>
+	<ypos>2.78333333333</ypos>
+	<width>0.9</width>
+	<height>0.9</height>
+</key>
+<key>
+	<code>46</code>
+	<xpos>11.05</xpos>
+	<ypos>7.2</ypos>
+	<width>0.966666666667</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>36</code>
+	<xpos>13.65</xpos>
+	<ypos>4.1</ypos>
+	<width>1.1</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>29</code>
+	<xpos>12.5666666667</xpos>
+	<ypos>3.43333333333</ypos>
+	<width>1.0</width>
+	<height>0.8</height>
+</key>
+<key>
+	<code>54</code>
+	<xpos>5.75</xpos>
+	<ypos>7.71666666667</ypos>
+	<width>0.966666666667</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>45</code>
+	<xpos>4.8</xpos>
+	<ypos>8.11666666667</ypos>
+	<width>0.866666666667</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>39</code>
+	<xpos>12.4</xpos>
+	<ypos>2.45</ypos>
+	<width>1.2</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>43</code>
+	<xpos>10.5166666667</xpos>
+	<ypos>1.48333333333</ypos>
+	<width>1.1</width>
+	<height>0.9</height>
+</key>
+<key>
+	<code>53</code>
+	<xpos>3.11666666667</xpos>
+	<ypos>8.3</ypos>
+	<width>1.16666666667</width>
+	<height>0.866666666667</height>
+</key>
+<key>
+	<code>52</code>
+	<xpos>2.6</xpos>
+	<ypos>7.21666666667</ypos>
+	<width>1.0</width>
+	<height>1.16666666667</height>
+</key>
+<key>
+	<code>33</code>
+	<xpos>3.85</xpos>
+	<ypos>5.08333333333</ypos>
+	<width>0.966666666667</width>
+	<height>0.9</height>
+</key>
+<key>
+	<code>24</code>
+	<xpos>2.61666666667</xpos>
+	<ypos>3.31666666667</ypos>
+	<width>1.1</width>
+	<height>0.966666666667</height>
+</key>
+<key>
+	<code>94</code>
+	<xpos>2.26666666667</xpos>
+	<ypos>4.46666666667</ypos>
+	<width>1.06666666667</width>
+	<height>1.26666666667</height>
+</key>
+<key>
+	<code>42</code>
+	<xpos>12.1</xpos>
+	<ypos>6.83333333333</ypos>
+	<width>1.0</width>
+	<height>0.866666666667</height>
+</key>
+<key>
+	<code>56</code>
+	<xpos>13.15</xpos>
+	<ypos>6.36666666667</ypos>
+	<width>1.1</width>
+	<height>0.866666666667</height>
+</key>
+<key>
+	<code>55</code>
+	<xpos>14.2166666667</xpos>
+	<ypos>5.88333333333</ypos>
+	<width>0.966666666667</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>44</code>
+	<xpos>14.6666666667</xpos>
+	<ypos>4.78333333333</ypos>
+	<width>0.866666666667</width>
+	<height>0.966666666667</height>
+</key>
+<key>
+	<code>32</code>
+	<xpos>7.98333333333</xpos>
+	<ypos>6.71666666667</ypos>
+	<width>1.03333333333</width>
+	<height>0.9</height>
+</key>
+<key>
+	<code>41</code>
+	<xpos>9.46666666667</xpos>
+	<ypos>6.88333333333</ypos>
+	<width>1.0</width>
+	<height>0.9</height>
+</key>
+<key>
+	<code>57</code>
+	<xpos>7.73333333333</xpos>
+	<ypos>5.16666666667</ypos>
+	<width>0.866666666667</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>40</code>
+	<xpos>6.65</xpos>
+	<ypos>5.13333333333</ypos>
+	<width>1.1</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>30</code>
+	<xpos>4.28333333333</xpos>
+	<ypos>1.76666666667</ypos>
+	<width>1.1</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>25</code>
+	<xpos>3.15</xpos>
+	<ypos>2.33333333333</ypos>
+	<width>1.1</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>58</code>
+	<xpos>4.83333333333</xpos>
+	<ypos>5.68333333333</ypos>
+	<width>1.06666666667</width>
+	<height>0.9</height>
+</key>
+<key>
+	<code>65</code>
+	<xpos>9.75</xpos>
+	<ypos>4.98333333333</ypos>
+	<width>0.966666666667</width>
+	<height>0.833333333333</height>
+</key>
+<key>
+	<code>28</code>
+	<xpos>9.78333333333</xpos>
+	<ypos>4.06666666667</ypos>
+	<width>0.966666666667</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>35</code>
+	<xpos>16.9</xpos>
+	<ypos>2.51666666667</ypos>
+	<width>1.06666666667</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>61</code>
+	<xpos>17.5833333333</xpos>
+	<ypos>3.73333333333</ypos>
+	<width>1.36666666667</width>
+	<height>1.26666666667</height>
+</key>
+<key>
+	<code>50</code>
+	<xpos>17.85</xpos>
+	<ypos>5.01666666667</ypos>
+	<width>0.9</width>
+	<height>1.36666666667</height>
+</key>
+<key>
+	<code>34</code>
+	<xpos>17.7666666667</xpos>
+	<ypos>6.28333333333</ypos>
+	<width>1.2</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>47</code>
+	<xpos>16.9833333333</xpos>
+	<ypos>7.35</ypos>
+	<width>1.16666666667</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>51</code>
+	<xpos>11.2833333333</xpos>
+	<ypos>9.41666666667</ypos>
+	<width>1.23333333333</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>48</code>
+	<xpos>12.6666666667</xpos>
+	<ypos>9.36666666667</ypos>
+	<width>1.2</width>
+	<height>1.13333333333</height>
+</key>
+<key>
+	<code>49</code>
+	<xpos>0.783333333333</xpos>
+	<ypos>1.48333333333</ypos>
+	<width>1.16666666667</width>
+	<height>1.16666666667</height>
+</key>
+<key>
+	<code>113</code>
+	<xpos>23.9833333333</xpos>
+	<ypos>9.48333333333</ypos>
+	<width>1.83333333333</width>
+	<height>0.966666666667</height>
+</key>
+<key>
+	<code>116</code>
+	<xpos>26.1</xpos>
+	<ypos>9.48333333333</ypos>
+	<width>1.66666666667</width>
+	<height>0.966666666667</height>
+</key>
+<key>
+	<code>114</code>
+	<xpos>28.1</xpos>
+	<ypos>9.45</ypos>
+	<width>1.73333333333</width>
+	<height>0.966666666667</height>
+</key>
+<key>
+	<code>111</code>
+	<xpos>26.1666666667</xpos>
+	<ypos>8.26666666667</ypos>
+	<width>1.4</width>
+	<height>0.933333333333</height>
+</key>
+<key>
+	<code>20</code>
+	<xpos>14.7833333333</xpos>
+	<ypos>0.616666666667</ypos>
+	<width>1.1</width>
+	<height>1.16666666667</height>
+</key>
+<key>
+	<code>21</code>
+	<xpos>17.5666666667</xpos>
+	<ypos>0.516666666667</ypos>
+	<width>1.4</width>
+	<height>0.966666666667</height>
+</key>
+<key>
+	<code>10</code>
+	<xpos>20.8</xpos>
+	<ypos>1.98333333333</ypos>
+	<width>1.26666666667</width>
+	<height>0.833333333333</height>
+</key>
+<key>
+	<code>11</code>
+	<xpos>22.8333333333</xpos>
+	<ypos>1.7</ypos>
+	<width>1.33333333333</width>
+	<height>0.866666666667</height>
+</key>
+<key>
+	<code>12</code>
+	<xpos>24.8833333333</xpos>
+	<ypos>1.5</ypos>
+	<width>1.3</width>
+	<height>0.933333333333</height>
+</key>
+<key>
+	<code>13</code>
+	<xpos>21.0166666667</xpos>
+	<ypos>3.46666666667</ypos>
+	<width>1.3</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>14</code>
+	<xpos>23.1333333333</xpos>
+	<ypos>3.21666666667</ypos>
+	<width>1.33333333333</width>
+	<height>0.966666666667</height>
+</key>
+<key>
+	<code>15</code>
+	<xpos>25.15</xpos>
+	<ypos>2.9</ypos>
+	<width>1.3</width>
+	<height>1.06666666667</height>
+</key>
+<key>
+	<code>16</code>
+	<xpos>21.4333333333</xpos>
+	<ypos>5.0</ypos>
+	<width>1.4</width>
+	<height>1.0</height>
+</key>
+<key>
+	<code>17</code>
+	<xpos>23.4333333333</xpos>
+	<ypos>4.85</ypos>
+	<width>1.26666666667</width>
+	<height>1.03333333333</height>
+</key>
+<key>
+	<code>18</code>
+	<xpos>25.4666666667</xpos>
+	<ypos>4.41666666667</ypos>
+	<width>1.4</width>
+	<height>1.1</height>
+</key>
+<key>
+	<code>19</code>
+	<xpos>23.4666666667</xpos>
+	<ypos>6.73333333333</ypos>
+	<width>1.26666666667</width>
+	<height>1.06666666667</height>
 </key>
 </keyboard>
 <extension>
